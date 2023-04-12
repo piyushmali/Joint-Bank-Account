@@ -1,6 +1,6 @@
 # Bank Account With Multiple Approvals
 
-This project provides a smart contract that allows for creating joint bank accounts. Each bank account can have up to 4 owners, each of which must approve any withdrawl of funds. As well as completed contract there is are automated test cases and a slim front-end applications that allows you to interact with some functionality of the contract. Please free to extend this project and add your own features and functionality.
+This project provides a smart contract that allows for creating joint bank accounts. Each bank account can have up to 4 owners, each of which must approve any withdrawl of funds. As well as completed contract there is are automated test cases and a slim front-end applications that allows you to interact with some functionality of the contract.
 
 ## Getting Started
 
