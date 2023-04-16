@@ -7,7 +7,7 @@ This project provides a smart contract that allows for creating joint bank accou
 To test and deploy the smart contract follow the steps below.
 
 1. Install [Node.js](https://nodejs.org/en/download/)
-2. Clone the repository: `git clone https://github.com/algoexpert-io/Joint-Bank-Account.git`
+2. Clone the repository: `git clone https://github.com/algoexpert-io/piyushmali.git`
 3. `cd Joint-Bank-Account`
 4. `npm install`
 5. To test the contract run `npx hardhat test`
